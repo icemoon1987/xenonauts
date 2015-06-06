@@ -67,7 +67,7 @@
 * [ ] Researches.AlienLeaderInterrogation.txt
 * [x] Researches.AlienOfficerInterrogation.txt
 * [ ] Researches.AlienPlasmaCannon.txt
-* [x] Researches.AlienPlasmaPistol.txt
+* [ ] Researches.AlienPlasmaPistol.txt
 * [ ] Researches.AlienPlasmaRifle.txt
 * [ ] Researches.AlienPlasmaTechnology.txt
 * [ ] Researches.AlienPowerSource.txt
